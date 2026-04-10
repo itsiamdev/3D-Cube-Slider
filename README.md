@@ -9,7 +9,7 @@ An interactive 3D cube image slider built with HTML, CSS, and JavaScript. Experi
 - 📱 Responsive design
 
 ## Live Demo
-Check out the live demo: [https://iam269.github.io/3D-Cube-Slider/](https://iam269.github.io/3D-Cube-Slider/)
+Check out the live demo: [https://itsiamdev.github.io/3D-Cube-Slider/](https://itsiamdev.github.io/3D-Cube-Slider/)
 
 ## Technologies Used
 - HTML5
